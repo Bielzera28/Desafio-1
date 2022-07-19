@@ -1,0 +1,47 @@
+.base-container {
+    display: flex;
+    padding-top: 30px;
+}
+
+.base-container .base-container__left {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 100%;
+}
+
+.base-container .base-container__left__content {
+    display: flex;
+}
+
+.base-container__left .base-container__left__home {
+    background-color: #272727;
+    margin-right: 18px;
+
+}
+
+.base-container .icons {
+    display: flex;
+    align-items: center;
+
+}
+
+.icons > :not(:first-child) {
+    margin-left: 60px;
+}
+
+.icons .icons-container {
+    display: flex;
+}
+
+.icons-container > :not(:first-child) {
+    padding-left: 48px;
+}
+
+.icons-container__content {
+    display: flex;
+}
+
+.icons-container__content > :not(:first-child) {
+    padding-left: 35px;
+}

@@ -1,0 +1,4 @@
+red - heading
+blue - text
+black - buttom
+green - logo
