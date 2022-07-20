@@ -1,0 +1,21 @@
+.help-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F9F9F9;
+
+}
+
+.help-container__content {
+    display: flex;
+    align-items: center;
+}
+
+.help-container__content > :not(:first-child) {
+    margin-left: 40px;
+    text-decoration: underline;
+}
+
+.help-container__left {
+    margin-right: 80px;
+}

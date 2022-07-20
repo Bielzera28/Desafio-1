@@ -1,5 +1,7 @@
-import "./styles.css";
 import Base from "./Base";
+import Help from "./Help";
+
+import "./styles.css";
 
 function Home() {
     return (
@@ -8,9 +10,7 @@ function Home() {
 
          <Base />
 
-         <div>
-           Help
-         </div>
+         <Help />
 
          <div>
            Design

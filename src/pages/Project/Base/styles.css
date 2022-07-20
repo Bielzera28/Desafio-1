@@ -1,6 +1,7 @@
 .base-container {
     display: flex;
     padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .base-container .base-container__left {
