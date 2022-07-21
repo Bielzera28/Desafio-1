@@ -9,14 +9,15 @@ function Help() {
     <div className="help-container">
       <div>
         <div className="help-container__left">
-          <Text fontSize={40} fontWeight={600}>
-            Ajudar você a encontrar o melhor conforto, é nossa prioridade.
-          </Text>
+            <Text fontSize={40} fontWeight={600}>
+              Ajudar você a encontrar o melhor conforto, é nossa prioridade.
+            </Text>
           <Text
             fontSize={18}
             fontWeight={500}
             color="#797979"
             padding="32px 0px"
+            lineHeight={1.5}
           >
             Encontre uma variedade de propriedades que combinam com você.
             Esqueça todas as dificuldades em encontrar uma residência

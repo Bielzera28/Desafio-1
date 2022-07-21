@@ -1,0 +1,10 @@
+.info-container {
+    background-color: #F9F9F9;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.info-container .info-home {
+    background-color: #272727;
+}
+

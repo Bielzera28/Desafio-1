@@ -3,9 +3,11 @@
     align-items: center;
     justify-content: space-between;
     background-color: #F9F9F9;
+    padding-left: 350px;
+    padding-right: 350px;
 
 }
-
+    
 .help-container__content {
     display: flex;
     align-items: center;
@@ -17,5 +19,6 @@
 }
 
 .help-container__left {
-    margin-right: 80px;
+    margin-right: 60px;
+    max-width: 500px;
 }

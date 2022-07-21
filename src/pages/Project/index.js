@@ -1,3 +1,7 @@
+import Info from "./Info"
+import Orcament from "./Orcament";
+import Galery from "./Galery";
+import Design from "./Design";
 import Base from "./Base";
 import Help from "./Help";
 
@@ -12,21 +16,13 @@ function Home() {
 
          <Help />
 
-         <div>
-           Design
-         </div>
+         <Design />
 
-         <div>
-           Galery
-         </div>
+         <Galery />
          
-         <div>
-            Orcament
-         </div>
+         <Orcament />
 
-         <div>
-           Info
-         </div>
+         <Info />
 
         </div>        
       </div>
