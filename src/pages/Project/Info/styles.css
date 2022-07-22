@@ -1,10 +1,33 @@
 .info-container {
+    display: flex;
     background-color: #F9F9F9;
     padding-left: 350px;
     padding-right: 350px;
+    padding-top: 90px;
+    padding-bottom: 100px;
 }
 
 .info-container .info-home {
     background-color: #272727;
+    max-height: 42px;
 }
 
+.info-container > :not(:first-child) {
+    margin-left: 80px;
+}
+
+.info-container .info-container__1 > :not(:first-child) {
+    margin-top: 15px;
+}
+
+.info-container .info-container__2 > :not(:first-child) {
+    margin-top: 15px;
+}
+
+.info-container .info-container__3 > :not(:first-child) {
+    margin-top: 15px;
+}
+
+.info-container .info-container__2 {
+    padding: 0px 20px;
+}
