@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Desafio-1/static/css/main.a3fc8ad7.css",
+    "main.css": "/Desafio-1/static/css/main.3f09eb7a.css",
     "main.js": "/Desafio-1/static/js/main.7dcad6ff.js",
     "static/js/787.b6f1defa.chunk.js": "/Desafio-1/static/js/787.b6f1defa.chunk.js",
     "static/media/Help-image.png": "/Desafio-1/static/media/Help-image.83ef222677eee46dd3b7.png",
@@ -9,12 +9,12 @@
     "static/media/galery2.png": "/Desafio-1/static/media/galery2.ee4bbec7eb25bd2aade5.png",
     "static/media/galery1.png": "/Desafio-1/static/media/galery1.d5fb0f849529696b7e97.png",
     "index.html": "/Desafio-1/index.html",
-    "main.a3fc8ad7.css.map": "/Desafio-1/static/css/main.a3fc8ad7.css.map",
+    "main.3f09eb7a.css.map": "/Desafio-1/static/css/main.3f09eb7a.css.map",
     "main.7dcad6ff.js.map": "/Desafio-1/static/js/main.7dcad6ff.js.map",
     "787.b6f1defa.chunk.js.map": "/Desafio-1/static/js/787.b6f1defa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3fc8ad7.css",
+    "static/css/main.3f09eb7a.css",
     "static/js/main.7dcad6ff.js"
   ]
 }
