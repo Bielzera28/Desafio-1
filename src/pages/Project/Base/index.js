@@ -22,9 +22,9 @@ function Base() {
 
         <div className="icons">
           <div className="icons-container">
-            <Text fontSize={18} fontWeight={500}>Inicio</Text>
-            <Text fontSize={18} fontWeight={500}>Galeria</Text>
-            <Text fontSize={18} fontWeight={500}>Contato</Text>
+            <Text fontSize={18} fontWeight={600}>Inicio</Text>
+            <Text fontSize={18} fontWeight={600}>Galeria</Text>
+            <Text fontSize={18} fontWeight={600}>Contato</Text>
           </div>
           <div className="icons-container__content">
             <User />
