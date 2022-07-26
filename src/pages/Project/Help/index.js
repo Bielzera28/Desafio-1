@@ -9,9 +9,12 @@ function Help() {
     <div className="help-container">
       <div>
         <div className="help-container__left">
-            <Text fontSize={40} fontWeight={600}>
-              Ajudar você a encontrar o melhor conforto, é nossa prioridade.
-            </Text>
+          <Text fontSize={40} fontWeight={600}>
+            Ajudar você a encontrar
+            <br />
+            o melhor conforto,
+            <br />é nossa prioridade.
+          </Text>
           <Text
             fontSize={18}
             fontWeight={500}
